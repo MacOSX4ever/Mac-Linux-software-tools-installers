@@ -1,4 +1,7 @@
 # Mac-Linux-software-tools-installers
+
+VERY MUCH A WORK IN PROGRESS!!
+
 Mac and Linux software tools and installers avoiding annoying sandboxing whenever possible. Configuring and streamlining Mac and Linux.
 
 About my systems:
